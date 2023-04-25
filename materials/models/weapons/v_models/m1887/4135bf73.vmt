@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\M1887\36ba0797"
+	"$bumpmap" "models\weapons\v_models\M1887\36ba0797_N"
+	"$halflambert"     "1"
+ 
+	"$phong"      "1"
+	"$phongboost"     "0.4"
+	"$normalmapalphaphongmask" "1"
+	"$phongfresnelranges"   "[2 5 9]"
+ 
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap"      "env_cubemap"
+	"$envmaptint"     "[ 0.005 0.005 0.005 ]"
+	"$envmapfresnel"   "1"
+	"$envmapFresnelMinMaxExp" "[0 4 .4]"
+ 
+	"$rimlight"     "1"
+	"$rimlightexponent"   "30" 
+	"$rimlightboost"   "0.5"
+	"$rimmask"      "1"
+	
+}
