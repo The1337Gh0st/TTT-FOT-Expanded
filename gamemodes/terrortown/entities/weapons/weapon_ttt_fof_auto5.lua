@@ -12,7 +12,7 @@ SWEP.Primary.Damage = 6
 SWEP.Primary.HeadshotDamage = 8
 SWEP.Primary.NumShots = 6
 SWEP.Primary.Delay = 60 / 360
-SWEP.Primary.Cone = 0.045
+SWEP.Primary.Cone = 0.0375
 SWEP.Primary.Recoil = 3.6
 SWEP.Primary.ClipSize = 5
 SWEP.Primary.Sound = "auto5.Single"
@@ -56,10 +56,10 @@ SWEP.DeployTime = 1.25
 SWEP.DeployAnimSpeed = 0.5
 
 SWEP.ConeAim = 0.03
-SWEP.ConeRun = 0.125
+SWEP.ConeRun = 0.1
 SWEP.ConeJump = 0.2
 
-SWEP.ConeTimeRun = 0.25
+SWEP.ConeTimeRun = 0.3
 SWEP.ConeTimeJump = 0.5
 
 SWEP.AimTime = 0.5
